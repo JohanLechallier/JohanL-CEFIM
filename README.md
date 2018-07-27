@@ -1,2 +1,183 @@
-# JohanL-CEFIM
-Le devoirs github pour le CEFIM
+<!DOCTYPE html>
+
+<html>
+
+    <head>
+
+        <meta charset="utf-8" />
+
+        <link rel="stylesheet" href="StyleTemari.css" />
+
+        <title>Johan L - CEFIM</title>
+
+    </head>
+
+    
+
+    <body>
+
+        <div id="bloc_page">
+
+            <header>
+
+                <div id="titre_principal">
+
+                    <div id="logo">
+
+                        <img src="Sans titre-2.png" alt="Sans titre-2" />
+
+                        <h1>Johan L</h1>    
+
+                    </div>
+
+                    <h2>Objectif CEFIM</h2>
+
+                </div>
+
+                
+
+                <nav>
+
+                    <ul>
+
+                        <li><a href="#">Accueil</a></li>
+
+                        <li><a href="#"><a href="PremierSiteCv.html" target="_blank"/>CV</a></li>
+
+                    </ul>
+
+                </nav>
+
+            </header>
+
+            
+
+            <div id="banniere_image">
+
+                <div id="banniere_description">                	
+
+                    Pour avoir mon CV cliquer sur l'onget CV
+                   
+                    <img src="images/flecheblanchedroite.png" alt="flecheblanchedroite" /><a href="#" class="bouton_rouge"> C'est beau la vie</a>
+
+                </div>
+
+            </div>
+
+            
+
+            <section>
+
+                <article>
+
+                    <h1><img src="naruto.png" alt="Catégorie voyage" class="ico_categorie" />Mes raison et mon envie d'allez au CEFIM</h1>
+
+                    <p><strong>Une petite rétrospective de mon parcourt :</strong></p>
+
+                    <p>J'ai suivie une parcourt scolaire jusqu'a la 3ème général, a la fin de la 3éme je me suis lancer dans un CAP Pâtissier que je n'est pas fini du a des raison personnel. Suite a sa j'ai cherché un travaille pour subvenir au besoin financier familial se qui ma embarqué dans plusieur petit boulot mais rien de concret de la j'ai voulu reprendre mon CAP pâtissier en 2017 je suis donc rentré en garentie jeune pour m'aidez dans mes démarche qui a pu me permettre de réaliser un stage en pâtisserie, de la je me suis rendu compte que le métier ne plaisais plus tellement. De la j'ai cherché dans quel type de métier je pourrais m'épanouir; de la j'ai donc réfléchit est je me suis décidé a cherché des formation en lien avec mes loisir. Il se trouve que l'informatique plus précisément le web et le design , j'y est donc trouvez les formation du CEFIM dans un premier temps puis j'ai découvert la formation DMN que l'afpp proposé j'ai donc décidé de tentez ma chance se qui a portez c'est fruit. </p>
+
+                    <p><strong>Pourquoi web dev' ?</strong></p>
+
+                    <p>Avant de choisir le développement web, je voulait plus partir dans le web design car j'avais déjà une affinité avec Photoshop et je pensé cela suffisant pour se métier. Mais j'ai découvert au fil de la formation que le métier était tout autre malgrés sa cela le web design m'intéressé mais cela resterai plus une activé que je pratiquerai part loisir et non professionel. Suite a cela j'ai regardez dans les choix qu'il me resté c'est a dire le montage vidéo, ingénieur son ou développement web. Monteur vidéo est très peut recherché dans le monde de l'emploie et très difficile d'accés; ingénieur son était en dernière position dans mes choix donc je me suis penché sur le web developement j'ai fait quelque recherche sur le métier. Suite a c'est recherche j'ai voulu mettre mon nez dedans est commencez a voirs différent langage, test mes limite pour voirs si j'allais abandonner ou encore que cela allez se révélé beaucoups trop du pour moi. Suite a sa j'ai eu du mal au départ mais sans m'en rendre compte j'adoré sa; j'ai commencez code combat en python puis java script est comment d'écrire cette expérience a chaque nouvelle balise avent de terminé un niveau je me lancez dans des recherche pour voir se qui était possible de faire avec cette nouvelle balise comment les gens l'utilisé et puis une fois lancez pour tapez des ligne de code je resté des heurs sans m'en rendre vraiment compte. Conclusion j'ai encore une maigre expérience sur le sujet mais une grosse marge de progréssions d'apprentisage sur différent langage possible, qui me parait illimité le developpement web c'est donc retrouvé a être mon premier choix et de loin.</p>
+
+                    <p><strong>Pour finir pourquoi le CEFIM ?</strong></p>
+
+                    <p>Pourquoi j'ai choisi le CEFIM et pas les autre centre de formation, j'ai plusieur réponse, la première serait biensur que j'ai déjà passer du temps dans les locaux et j'ai pu cotoyer plusieur formateur. Mais il n'y a pas que sa , le CEFIM est très proche de chez moi et j'ai toute les information sur comment procésédé pour l'intégrés. Mais la raison qui me tien le plus a coeur serait que même si la formation est plus que sérieuse on s'en la challeur humaine et la bonne ambiance qui y régne, mais aussi l'idée de réalisé un vrai projet avec les personne de la formation est un plus non négligeable sans oubliez les heur entreprise et le résseau que possède le CEFIM est un énorme plus pour qu'une fois la formation réussit la recherche d'emploie ne mette pas forcément 5ans a se faire.</p>
+                </article>
+
+                <aside>
+
+                    <h1>Qui suis-je ?</h1>
+
+                    <img src="images/bulle.png" alt="" id="fleche_bulle" />
+
+                    <p id="temari_choupi"><img src="temari2.png" alt="temari2" /></p>
+
+                    <p>Laisse-moi le temps de me présenter : je m'appelle Johan, je suis né un 28 décembre 1995.</p>
+
+                    <p>Je suis un fan de culture jap, sa ressort et sa se ressent je vous apprend rien. J'adore mangez et écoute toute sorte de musique. Mais le plus important pour finir j'adore tappez du code depuis peut.</p>
+
+                    <p><strong> Les site que j'adore :</strong></p>
+
+                    <p><a href="https://adala-news.fr/" title="Annonce Manga" target="_blank">Adala News</a></p>
+
+                    <p><a href="https://animedigitalnetwork.fr/" title="Streaming Légale" target="_blank">Anime Digital Network</p>
+                    <p><a href=""></a></p>
+
+                    <p><a href="https://www.wakanim.tv/fr/v2" title="Streaming Légale" target="_blank">Wakanim</a></p>
+
+                    <p><a href="https://www.twitch.tv/" title="Streaming Gaming" target="_blank">Twitch</a></p>
+
+                    <p><a href="https://www.linkedin.com/in/johan-lechallier-570516166/" title="Johan Lechallier" target="_blank"><img src="linke.png" alt="linke" /></a><a href="https://twitter.com/TsundereTemari" title="Mon twitter" target="_blank"><img src="images/twitter.png" alt="Twitter" /></a><a href="https://www.youtube.com/channel/UCiZuGTy5yxKh3dBQg467ykA" title="Mon youtube" target="_blank"><img width="62" height="32" src="Youtube.png" alt="Youtube" /></a><a href="https://www.twitch.tv/tsunderetemari" title="Ma chaine Twitch" target="_blank"><img width="42" height="42" src="Twitch.png" alt="Twitch" /></a></p>
+                    <p><strong>Ma playlist préféré du moment !</strong></p>
+
+                    <iframe width="560" height="315" src="https://www.youtube.com/embed/XZZfch0-zDM" frameborder="0" allow="autoplay; encryptes-media" allowfullscreen></iframe>
+
+                </aside>
+
+            </section>
+
+            
+
+            <footer>
+
+                <div id="tweet">
+
+                    <h1>Mention légale</h1>
+
+                    <p>Johan Lechallier, Chambray-les-Tours</p>
+                    <p>natsunii7@gmail.com</p>
+                    <p>hébergeurs, Github</p>
+
+                </div>
+
+                <div id="mes_photos">
+
+                    <h1>Mes photos</h1>
+
+                    <p><a href="https://images.alphacoders.com/634/634942.jpg" target="_blank"><img width="69" height="69" src="https://images.alphacoders.com/634/634942.jpg" alt="wallpapers" /></a><a href="http://s1.picswalls.com/wallpapers/2015/09/27/one-piece-high-definition_01153193_277.jpg" target="_blank"><img width="69" height="69" src="http://s1.picswalls.com/wallpapers/2015/09/27/one-piece-high-definition_01153193_277.jpg" alt="Wallpapers" /></a><a href="https://images3.alphacoders.com/667/667877.jpg" target="_blank"><img width="69" height="69" src="https://images3.alphacoders.com/667/667877.jpg" alt="wallpapers" /></a><a href="http://paperlief.com/images/sword-art-online-wallpaper-3.jpg" target="_blank"><img width="69" height="69" src="http://paperlief.com/images/sword-art-online-wallpaper-3.jpg" alt="wallpapers" /></p>
+
+                </div>
+
+                <div id="mes_amis">
+
+                    <h1>Mes artiste et studio préféré </h1>
+
+                    <div id="listes_amis">
+
+                        <ul>
+
+                            <li><a href="#"><a href="https://fr.wikipedia.org/wiki/Louis_de_Fun%C3%A8s" target="_blank">Louis de funès</a></a></li>
+
+                            <li><a href="#"><a href="https://fr.wikipedia.org/wiki/Myth_and_Roid" target="_blank"> Myth & Roid</a></a></li>
+
+                            <li><a href="#"><a href="https://fr.wikipedia.org/wiki/Masashi_Kishimoto" target="_blank">Masashi Kishimoto</a></a></li>
+
+                            <li><a href="#"><a href="https://fr.wikipedia.org/wiki/Garnidelia" target="_blank">Garnidelia</a></a></li>
+
+
+                        </ul>
+
+                        <ul>
+
+                            <li><a href="#"><a href="https://fr.wikipedia.org/wiki/James_Cameron" target="_blank">James Cameron</a></a></li>
+
+                            <li><a href="#"><a href="https://fr.wikipedia.org/wiki/Eiichir%C5%8D_Oda" target="_blank">Eiichirō Oda </a></a></li>
+
+                            <li><a href="#"><a href="https://fr.wikipedia.org/wiki/Toei_Animation" target="_blank"> Toei Animation</a></a></li>
+
+                            <li><a href="#"><a href="https://fr.wikipedia.org/wiki/Square_Enix" target="_blank">Square Enix</a></a></li>
+
+                        </ul>
+
+                    </div>
+
+                </div>
+
+            </footer>
+
+        </div>
+
+    </body>
+
+</html>
